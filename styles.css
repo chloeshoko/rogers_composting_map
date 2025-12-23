@@ -79,15 +79,3 @@ figcaption {
 .graphic-wrapper iframe {
   display: block;
 }
-
-/*********************************************************************
-  YOUR DESKTOP-ONLY STYLES GO HERE
-*********************************************************************/
-@media(min-width: 900px) {
-
-    /* Any adjustments for desktop and larger go here.
-    Note these styles will be applied to anything 729px or larger -- so desktop */
-    .container {
-        max-width: 600px;
-    }
-}
