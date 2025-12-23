@@ -105,10 +105,7 @@ ul li {
 }
 
 .graphic-wrapper {
-  margin-top: 2rem;
-  border: 1px solid #ddd;
-  padding: 12px;
-  background: white;
+  outline: 5px solid red;
 }
 
 /*********************************************************************
