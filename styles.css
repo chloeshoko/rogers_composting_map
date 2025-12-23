@@ -105,8 +105,11 @@ ul li {
 }
 
 .graphic-wrapper {
-  outline: 5px solid red;
+  margin-top: 30px;
+  border: 1px solid #ccc;
+  padding: 10px; /* space between border and chart */
 }
+
 
 /*********************************************************************
   YOUR TABLET/DESKTOP STYLES GO HERE
